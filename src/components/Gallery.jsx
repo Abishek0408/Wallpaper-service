@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import SearchBar from "./SearchBar";
-import Lightbox from "./LIghtBox"; // Ensure this is the correct casing for the import
+import Lightbox from "./LightBox"; // Ensure this is the correct casing for the import
 import "./Gallery.css";
 
 // Constants
