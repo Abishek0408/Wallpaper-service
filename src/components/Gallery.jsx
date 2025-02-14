@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import axios from "axios";
-import SearchBar from "./SearchBar";
-import Lightbox from "./LightBox.jsx";
+import SearchBar from "./SearchBar.jsx";
+import Lightbox from "./Lightbox.jsx";
 import "./Gallery.css";
 
 // Constants
